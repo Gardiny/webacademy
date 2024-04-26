@@ -1,0 +1,6 @@
+Produtos
+Valor
+Quantidade
+Codigo
+Cliente
+Revendedor
